@@ -1,3 +1,0 @@
-Refactor core (391): step 1
-Refactor core (391): step 2
-Refactor core (391): step 3
