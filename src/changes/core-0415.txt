@@ -1,3 +1,0 @@
-Refactor core (415): step 1
-Refactor core (415): step 2
-Refactor core (415): step 3
