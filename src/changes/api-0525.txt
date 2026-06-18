@@ -1,3 +1,0 @@
-Speed up api (525): step 1
-Speed up api (525): step 2
-Speed up api (525): step 3
