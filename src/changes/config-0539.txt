@@ -1,2 +1,0 @@
-Refactor config (539): step 1
-Refactor config (539): step 2
