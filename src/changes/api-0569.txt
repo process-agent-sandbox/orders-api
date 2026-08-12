@@ -1,1 +1,2 @@
 Refactor api (569): step 1
+Refactor api (569): step 2
