@@ -1,1 +1,2 @@
 Fix tests (606): step 1
+Fix tests (606): step 2
